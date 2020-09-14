@@ -1,0 +1,175 @@
+﻿  pch.cpp
+  Bullet.cpp
+  CreateBackground.cpp
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(23): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(24): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(25): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(26): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createbackground.cpp(44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  CreateHorde.cpp
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(24): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(25): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(29): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(30): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(34): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(35): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(39): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\createhorde.cpp(40): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Enemy.cpp
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\enemy.cpp(33): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\enemy.cpp(97): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  GameMain.cpp
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(29): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(30): warning C4244: "=": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(33): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(122): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(129): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(137): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(146): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(153): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(166): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(172): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(185): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(194): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(202): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\gamemain.cpp(570): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Pickup.cpp
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\pickup.cpp(24): warning C4244: "=": konwersja z "const int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\pickup.cpp(25): warning C4244: "=": konwersja z "const int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\pickup.cpp(46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\pickup.cpp(92): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\pickup.cpp(96): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  Player.cpp
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(8): warning C4244: "=": konwersja z "const float" do "int", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(9): warning C4244: "=": konwersja z "const float" do "int", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(16): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(17): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(32): warning C4244: "=": konwersja z "const float" do "int", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(33): warning C4244: "=": konwersja z "const float" do "int", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(127): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(131): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(135): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(139): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(143): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(149): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\geops\desktop\gra projekt  ostateczna\projekt gra\javakiller\javakiller\player.cpp(153): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  TextureHolder.cpp
+  Trwa generowanie kodu
+  All 399 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  JavaKiller.vcxproj -> C:\Users\Geops\Desktop\Gra Projekt  Ostateczna\Projekt gra\JavaKiller\Release\JavaKiller.exe
